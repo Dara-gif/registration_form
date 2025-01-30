@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Screens/regstration_Screen.dart';
+import 'Screens/registration_Screen.dart';
 void main(){
   runApp(MyApp());
 }
